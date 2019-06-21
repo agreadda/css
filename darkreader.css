@@ -255,7 +255,7 @@ blockquote.c-mrkdwn__quote::before {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -1720,7 +1720,7 @@ button.close {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -1873,7 +1873,7 @@ body:not(.loading) #team_menu.active #team_menu_user_name, body:not(.loading) #t
 }
 
 .whats_new_showing #flex_menu_toggle.unread #help_icon_circle_count {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -1886,7 +1886,7 @@ body:not(.loading) #team_menu.active #team_menu_user_name, body:not(.loading) #t
     border-bottom-color: rgba(102, 102, 102, 0.1);
     background-image: initial;
     background-color: #484C52;
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 #client_body:not(.onboarding).disable_border::before {
@@ -1895,7 +1895,7 @@ body:not(.loading) #team_menu.active #team_menu_user_name, body:not(.loading) #t
 
 #footer {
     background-image: linear-gradient(rgba(23, 24, 28, 0), #484C52 6px);
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 .feature_global_nav_layout #footer {
@@ -2038,7 +2038,7 @@ body:not(.loading) #team_menu.active #team_menu_user_name, body:not(.loading) #t
 
 #connection_div.resync_banner {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .secondary_file_button {
@@ -2395,7 +2395,7 @@ ts-memory-instrument {
 
 #client-ui .monkey_scroll_bar {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
 }
 
 #client-ui .monkey_scroll_handle_inner {
@@ -2756,7 +2756,7 @@ span.CodeMirror-selectedtext {
 
 .colpick_field, .colpick_hex_field {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     color: #beb9b2;
     border-top-color: #404040;
     border-right-color: #404040;
@@ -2813,7 +2813,7 @@ span.CodeMirror-selectedtext {
 
 .colpick_submit:hover {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     border-top-color: #474747;
     border-right-color: #474747;
     border-bottom-color: #474747;
@@ -4534,7 +4534,7 @@ span.CodeMirror-selectedtext {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -4671,7 +4671,7 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 
 .ts_toggle .ts_toggle_button {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -4824,13 +4824,13 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .slack_scrollbar::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .slack_scrollbar::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -4840,12 +4840,12 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .slack_scrollbar::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .slack_scrollbar::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .bordered {
@@ -4959,7 +4959,7 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 }
 
 .soft_grey_bg {
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
 }
 
 .severe_grey {
@@ -5007,7 +5007,7 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 }
 
 .cloud_white_bg {
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
 }
 
 .charcoal_grey_bg {
@@ -5063,7 +5063,7 @@ html.no_touch .alert_page a:active, html.no_touch .alert_page a:hover {
 }
 
 .highlight_yellow_bg {
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
     background-color: #524200 !important;
 }
 
@@ -5368,7 +5368,7 @@ html.no_touch .action_cog:hover i {
 }
 
 .quote_block::before {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .quote_block.seafoam_green::before {
@@ -5808,7 +5808,7 @@ a.btn {
 .btn.hover, .btn:focus, .btn:hover {
     background-image: initial;
     background-color: #008952;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 1px 4px;
     color: #ffffff;
 }
 
@@ -5821,7 +5821,7 @@ a.btn {
 .btn_outline {
     background-image: initial;
     background-color: #484C52;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px 1px inset;
     color: #d6d4cf !important;
 }
 
@@ -5838,19 +5838,19 @@ a.btn {
 .btn_outline.hover, .btn_outline:focus, .btn_outline:hover {
     background-image: initial;
     background-color: #484C52;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px 1px inset, rgba(39, 44, 53, 0.2) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px 1px inset, rgba(72, 76, 82, 0.2) 0px 1px 4px;
 }
 
 .btn_outline:active {
     background-image: initial;
     background-color: #191a1e;
-    box-shadow: rgba(39, 44, 53, 0.5) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.5) 0px 0px 0px 1px inset;
 }
 
 .btn_outline.active {
     background-image: initial;
     background-color: #191a1e;
-    box-shadow: rgba(39, 44, 53, 0.5) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.5) 0px 0px 0px 1px inset;
     color: #d6d4cf !important;
 }
 
@@ -5875,7 +5875,7 @@ a.btn {
 .btn.btn_outline.disabled, .btn.btn_outline.disabled:hover {
     color: rgba(214, 212, 207, 0.75) !important;
     background-image: initial !important;
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
 }
 
 .btn_unstyle {
@@ -5934,7 +5934,7 @@ a.btn {
 
 .btn.disabled, .btn.disabled:active, .btn.disabled:hover, .btn:disabled, .btn:disabled:active, .btn:disabled:hover {
     color: rgba(214, 212, 207, 0.75);
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
     box-shadow: none !important;
 }
 
@@ -6154,7 +6154,7 @@ a.btn {
 }
 
 .c-tabs__tab_menu {
-    box-shadow: #1d1f24 0px -1px 0px 0px inset;
+    box-shadow: #484C52 0px -1px 0px 0px inset;
 }
 
 .c-tabs__tab {
@@ -6199,7 +6199,7 @@ a.btn {
 
 .c-tabs__tab_menu--plastic {
     background-color: #484C52;
-    box-shadow: #1d1f24 0px -2px 0px 0px inset;
+    box-shadow: #484C52 0px -2px 0px 0px inset;
 }
 
 a.c-tabs__tab--plastic {
@@ -6218,7 +6218,7 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .tab_menu {
     background-color: #484C52;
-    box-shadow: #1d1f24 0px -2px 0px 0px inset;
+    box-shadow: #484C52 0px -2px 0px 0px inset;
 }
 
 .tab_menu .tab {
@@ -6428,13 +6428,13 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .c-modal__left_navigation--onboarding_dialog, .c-modal__right_navigation--onboarding_dialog {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.25);
+    background-color: rgba(72, 76, 82, 0.25);
     color: #ffffff;
 }
 
 .c-modal__left_navigation--onboarding_dialog:hover, .c-modal__right_navigation--onboarding_dialog:hover {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.6);
+    background-color: rgba(72, 76, 82, 0.6);
 }
 
 .c-modal__copy--onboarding_dialog {
@@ -6609,13 +6609,13 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .menu #menu_items_scroller::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .menu #menu_items_scroller::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -6629,12 +6629,12 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 }
 
 .supports_custom_scrollbar.slim_scrollbar .menu #menu_items_scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .menu #menu_items_scroller::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .menu #menu_items_scroller::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar .menu #menu_items_scroller::-webkit-scrollbar-track {
@@ -6670,7 +6670,7 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .menu .menu_context {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -6753,13 +6753,13 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #emoji_menu .emoji_menu_items_scroller::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #emoji_menu .emoji_menu_items_scroller::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -6769,12 +6769,12 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 }
 
 .supports_custom_scrollbar.slim_scrollbar #emoji_menu .emoji_menu_items_scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #emoji_menu .emoji_menu_items_scroller::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #emoji_menu .icon_search {
@@ -6830,7 +6830,7 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 #emoji_menu .emoji_li a.disabled, #emoji_menu .emoji_li.disabled {
     background-image: initial !important;
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
 }
 
 #emoji_menu #emoji_menu_items_scroller .emoji_li {
@@ -7037,7 +7037,7 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 }
 
 .popover_menu .arrow_shadow::after {
-    box-shadow: #1d1f24 -1px -1px 0px 0px, rgba(0, 0, 0, 0.08) -1px -1px 2px;
+    box-shadow: #484C52 -1px -1px 0px 0px, rgba(0, 0, 0, 0.08) -1px -1px 2px;
 }
 
 .popover_menu.showing_header .arrow::after, .popover_menu.showing_header .arrow_shadow::after {
@@ -7187,13 +7187,13 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -7207,12 +7207,12 @@ a.c-tabs__tab--plastic.c-tabs__tab--active, a.c-tabs__tab--plastic:active, a.c-t
 }
 
 .supports_custom_scrollbar.slim_scrollbar .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar .tab_complete_ui .tab_complete_ui_scroller::-webkit-scrollbar-track {
@@ -7378,13 +7378,13 @@ ts-inline-saver.failed {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -7398,12 +7398,12 @@ ts-inline-saver.failed {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar .lazy_filter_select .lfs_list_container .lfs_list::-webkit-scrollbar-track {
@@ -7463,7 +7463,7 @@ ts-inline-saver.failed {
     border-left-color: #383838;
     color: #d6d4cf;
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .lazy_filter_select .lfs_token.lfs_token_members::after {
@@ -7506,7 +7506,7 @@ ts-inline-saver.failed {
 }
 
 .lazy_filter_select .team_image::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .lazy_filter_select .team_image.default {
@@ -7637,7 +7637,7 @@ ts-inline-saver.failed {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -7728,7 +7728,7 @@ ts-inline-saver.failed {
 }
 
 #msg_input.offline:not(.pretend-to-be-online) {
-    background-color: rgba(39, 44, 53, 0.07) !important;
+    background-color: rgba(72, 76, 82, 0.07) !important;
 }
 
 #msg_input.disabled, #msg_input.ql-disabled {
@@ -7908,13 +7908,13 @@ ts-inline-saver.failed {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .flex_content_scroller::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .flex_content_scroller::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -7924,12 +7924,12 @@ ts-inline-saver.failed {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .flex_content_scroller::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .flex_content_scroller::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #flex_contents .heading_text {
@@ -8507,11 +8507,11 @@ ts-inline-saver.failed {
 
 .unknown_channel {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 #col_messages {
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 .feature_global_nav_layout #col_messages {
@@ -8546,13 +8546,13 @@ ts-inline-saver.failed {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #app_space_scroller_div::-webkit-scrollbar-track, .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-track, .supports_custom_scrollbar:not(.slim_scrollbar) #msgs_scroller_div::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #app_space_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #msgs_scroller_div::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -8562,12 +8562,12 @@ ts-inline-saver.failed {
 }
 
 .supports_custom_scrollbar.slim_scrollbar #app_space_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar #archive_msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar #msgs_scroller_div::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #app_space_scroller_div::-webkit-scrollbar-thumb:hover, .supports_custom_scrollbar.slim_scrollbar #archive_msgs_scroller_div::-webkit-scrollbar-thumb:hover, .supports_custom_scrollbar.slim_scrollbar #msgs_scroller_div::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .msg_right_link {
@@ -8654,7 +8654,7 @@ ts-inline-saver.failed {
 
 #notification_banner.messages_banner_tractor > #notification_banner_go_button:hover {
     color: #ffffff;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 1px 4px;
 }
 
 #notification_banner.messages_banner_tractor > #notification_banner_go_button:active {
@@ -8672,7 +8672,7 @@ ts-inline-saver.failed {
 }
 
 .msg_lim_activation_banner_menu_overlay {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .end_div_msg_lim {
@@ -8733,7 +8733,7 @@ ts-inline-saver.failed {
 
 #archives_return {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bfbbb4;
     text-shadow: none;
 }
@@ -9029,7 +9029,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 .inline_attachment .iframe_placeholder, .inline_attachment iframe {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .inline_audio_play_link:hover {
@@ -9140,7 +9140,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 
 .member_image_unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .member_image:focus {
@@ -9236,7 +9236,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 .filter_header {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
@@ -9356,7 +9356,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 .menu_member_header .member_details.cropped_preview .cropped_preview_member_image .member_restriction_over_image {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
     color: #ffffff;
 }
 
@@ -9575,7 +9575,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 
 .unknown_member {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .external_team_badge {
@@ -9584,7 +9584,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 .external_team_badge::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .external_team_badge.default {
@@ -9598,7 +9598,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 .team_image::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .team_image.default {
@@ -9619,7 +9619,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 
 .unknown_team {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .edit_profile_drop_overlay {
@@ -9873,7 +9873,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 }
 
 #edit_member_profile_container .photo_well {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9922,7 +9922,7 @@ ts-thread ts-message.new_reply .special_formatting_quote .quote_bar {
 
 .filetype_button .file_download_label {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #3a3a3a;
 }
 
@@ -10185,7 +10185,7 @@ a.gsheet img, a.pdf img {
 
 .file_preview_wrapper .file_preview:hover {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .file_preview_wrapper.dropbox {
@@ -10211,7 +10211,7 @@ a.gsheet img, a.pdf img {
 
 #file_page_preview img {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     border-top-color: #3a3a3a;
     border-right-color: #3a3a3a;
     border-bottom-color: #3a3a3a;
@@ -10220,7 +10220,7 @@ a.gsheet img, a.pdf img {
 
 #file_page_preview img:hover {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 #snippet_expand_toggle {
@@ -10253,7 +10253,7 @@ html.no_touch #snippet_expand_toggle:hover {
 }
 
 .post_body blockquote::before {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .post_body ul.checklist {
@@ -10419,7 +10419,7 @@ html.no_touch #snippet_expand_toggle:hover {
 }
 
 .file_container.image_container .image_body {
-    background-color: #1a1c20;
+    background-color: #484C52;
 }
 
 .file_container.image_container .image_bg {
@@ -10535,7 +10535,7 @@ html.no_touch #snippet_expand_toggle:hover {
 }
 
 .file_container .preview_actions .btn.preview_show_less_header {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
     color: #ffffff !important;
 }
 
@@ -10564,7 +10564,7 @@ html.no_touch #snippet_expand_toggle:hover {
 }
 
 .file_container .preview_show .preview_show_btn {
-    background-image: linear-gradient(rgba(39, 44, 53, 0.8), rgba(39, 44, 53, 0.8)), linear-gradient(rgba(23, 24, 28, 0.3), rgba(23, 24, 28, 0.3));
+    background-image: linear-gradient(rgba(72, 76, 82, 0.8), rgba(72, 76, 82, 0.8)), linear-gradient(rgba(23, 24, 28, 0.3), rgba(23, 24, 28, 0.3));
     background-color: initial;
     border-top-color: initial;
     border-right-color: initial;
@@ -10583,7 +10583,7 @@ html.no_touch #snippet_expand_toggle:hover {
 .file_container.file_menu_open .preview_show_less .preview_show_btn, .file_container:focus .preview_show_less .preview_show_btn, .file_container:hover .preview_show_less .preview_show_btn {
     color: #ffffff;
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .file_container.file_has_thumb .preview_actions {
@@ -10667,7 +10667,7 @@ html.no_touch #snippet_expand_toggle:hover {
 }
 
 .tab_container .file_list_item .filetype_image {
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px inset;
 }
 
@@ -10731,7 +10731,7 @@ html.no_touch #snippet_expand_toggle:hover {
 .message--focus .file_container .preview_show.preview_show_less .preview_show_btn {
     color: #ffffff;
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .file_tombstone_container {
@@ -10740,7 +10740,7 @@ html.no_touch #snippet_expand_toggle:hover {
 
 .file_tombstone_icon.c-icon {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .email_container .email_header .email_header_label {
@@ -10954,7 +10954,7 @@ button.star {
 }
 
 .progress_bar {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .progress_bar_progress_animated, .progress_bar_progress_animated_thin {
@@ -11749,13 +11749,13 @@ span.match .mention, span.match .mention:hover {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .autocomplete_menu_scrollable::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .autocomplete_menu_scrollable::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -11769,12 +11769,12 @@ span.match .mention, span.match .mention:hover {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .autocomplete_menu_scrollable::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .autocomplete_menu_scrollable::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .autocomplete_menu_scrollable::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar .autocomplete_menu_scrollable::-webkit-scrollbar-track {
@@ -11849,7 +11849,7 @@ span.match .mention, span.match .mention:hover {
 }
 
 #autocomplete_menu.search_menu .time_modifiers::before, #chat_input_tab_ui.search_menu .time_modifiers::before {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 #autocomplete_menu.search_menu .result_item_btn, #chat_input_tab_ui.search_menu .result_item_btn {
@@ -12216,7 +12216,7 @@ ts-searchtoken-value::after {
 #fs_modal .fs_modal_btn:hover {
     color: #d6d4cf;
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 #fs_modal .fs_modal_btn:active {
@@ -12405,13 +12405,13 @@ a.sidebar_menu_list_item:hover {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -12421,12 +12421,12 @@ a.sidebar_menu_list_item:hover {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .channel_modal_with_list .channel_modal_list::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #channel_browser .channel_browser_row {
@@ -12486,7 +12486,7 @@ a.sidebar_menu_list_item:hover {
 
 #channel_browser .channel_browser_divider:not(:first-of-type)::after {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 #im_browser .im_browser_row {
@@ -12729,13 +12729,13 @@ a.sidebar_menu_list_item:hover {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #generic_dialog.modal.all_members_dialog #all_members_container::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #generic_dialog.modal.all_members_dialog #all_members_container::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -12745,12 +12745,12 @@ a.sidebar_menu_list_item:hover {
 }
 
 .supports_custom_scrollbar.slim_scrollbar #generic_dialog.modal.all_members_dialog #all_members_container::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #generic_dialog.modal.all_members_dialog #all_members_container::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #channel_membership_dialog_container .searchable_member_list_search input {
@@ -12946,7 +12946,7 @@ a.sidebar_menu_list_item:hover {
 
 #fs_modal.prefs_modal #prefs_sidebar #prefs_themes_customize .colpick {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -13003,13 +13003,13 @@ a.sidebar_menu_list_item:hover {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #fs_modal.prefs_modal .contents_container:hover::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #fs_modal.prefs_modal .contents_container:hover::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -13028,12 +13028,12 @@ a.sidebar_menu_list_item:hover {
 }
 
 .supports_custom_scrollbar.slim_scrollbar #fs_modal.prefs_modal .contents_container:hover::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #fs_modal.prefs_modal .contents_container:hover::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #fs_modal.prefs_modal .badge_example {
@@ -13501,7 +13501,7 @@ ts-message .reply_bar:hover {
 
 ts-message.deleted .message_deleted_icon i {
     color: #b8b3ac;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 ts-message.deleted .deleted_message {
@@ -14041,7 +14041,7 @@ ts-message.message--focus .action_hover_container {
 }
 
 .msg_inline_attachment_column.column_border {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
@@ -14098,7 +14098,7 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 }
 
 .attachment_group.has_container .inline_attachment:not(.reply_broadcast)::after {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .attachment_group .attachment_source span {
@@ -14418,7 +14418,7 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 }
 
 .fs_modal_file_viewer_content .viewer {
-    background-color: #1a1c20;
+    background-color: #484C52;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .viewer {
@@ -14433,19 +14433,19 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-corner {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .viewer {
@@ -14453,12 +14453,12 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-thumb, .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .viewer::-webkit-scrollbar-track {
@@ -14499,13 +14499,13 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .aside_panel::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .aside_panel::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -14515,12 +14515,12 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .aside_panel::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar .fs_modal_file_viewer_content .aside_panel::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .fs_modal_file_viewer_content .comment_header {
@@ -14794,7 +14794,7 @@ ts-jumper ol li.highlighted.deleted_count, ts-jumper ol:not(.keyboard_active) li
 
 .supports_custom_scrollbar ts-jumper ts-jumper-results:not(.p-jumper__results)::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -14863,7 +14863,7 @@ ts-jumper ol li.highlighted.deleted_count, ts-jumper ol:not(.keyboard_active) li
 .channel_header {
     background-image: initial;
     background-color: #484C52;
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 .channel_header .blue_on_hover:hover {
@@ -15062,7 +15062,7 @@ ts-jumper ol li.highlighted.deleted_count, ts-jumper ol:not(.keyboard_active) li
 
 #canvases_toggle.active, #canvases_toggle.active:hover #details_toggle.active:hover, #details_toggle.active, #recent_mentions_toggle.active, #recent_mentions_toggle.active:hover, #sli_recap_toggle.active, #stars_toggle.active, #stars_toggle.active:hover {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
 }
 
@@ -15118,13 +15118,13 @@ ts-jumper ol li.highlighted.deleted_count, ts-jumper ol:not(.keyboard_active) li
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #unread_msgs_scroller_div::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #unread_msgs_scroller_div::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -15134,12 +15134,12 @@ ts-jumper ol li.highlighted.deleted_count, ts-jumper ol:not(.keyboard_active) li
 }
 
 .supports_custom_scrollbar.slim_scrollbar #unread_msgs_scroller_div::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #unread_msgs_scroller_div::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #unread_msgs_scroller_div:focus {
@@ -15240,13 +15240,13 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-thumb, 
 
 html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-track {
     background-image: initial;
-    background-color: #1a1c20;
+    background-color: #484C52;
     box-shadow: 0px -4px 0px 0px inset, 0px 4px 0px 0px inset;
 }
 
 html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -15256,12 +15256,12 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .slim_scrollbar .unread_empty_state_wrapper::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .slim_scrollbar .unread_empty_state_wrapper::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .unread_empty_state {
@@ -15418,17 +15418,17 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .app_card_header {
-    background-image: linear-gradient(136.53deg, rgba(23, 24, 28, 0.05) 0px, rgba(23, 24, 28, 0.2) 100%), linear-gradient(312.01deg, #272c35 0px, rgba(39, 44, 53, 0.75) 100%);
+    background-image: linear-gradient(136.53deg, rgba(23, 24, 28, 0.05) 0px, rgba(23, 24, 28, 0.2) 100%), linear-gradient(312.01deg, #272c35 0px, rgba(72, 76, 82, 0.75) 100%);
     background-color: #272c35;
 }
 
 .app_card_header--external {
-    background-image: linear-gradient(136.53deg, rgba(23, 24, 28, 0.05) 0px, rgba(23, 24, 28, 0.2) 100%), linear-gradient(312.01deg, #272c35 0px, rgba(39, 44, 53, 0.75) 100%);
+    background-image: linear-gradient(136.53deg, rgba(23, 24, 28, 0.05) 0px, rgba(23, 24, 28, 0.2) 100%), linear-gradient(312.01deg, #272c35 0px, rgba(72, 76, 82, 0.75) 100%);
     background-color: #272c35;
 }
 
 .app_card_is_external_over_image {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
     color: #ffffff;
 }
 
@@ -15531,7 +15531,7 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .app_video_play_button {
-    background-color: rgba(39, 44, 53, 0.7);
+    background-color: rgba(72, 76, 82, 0.7);
 }
 
 .app_video_play_button ts-icon {
@@ -15559,7 +15559,7 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #threads_msgs_scroller_div::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -15569,12 +15569,12 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .supports_custom_scrollbar.slim_scrollbar #threads_msgs_scroller_div::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .supports_custom_scrollbar.slim_scrollbar #threads_msgs_scroller_div::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .feature_global_nav_layout #threads_msgs_scroller_div {
@@ -15695,7 +15695,7 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .sli_briefing__image_preview {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .sli_briefing_messages__heading_text {
@@ -15771,7 +15771,7 @@ html:not(.slim_scrollbar) .unread_empty_state_wrapper::-webkit-scrollbar-corner 
 }
 
 .sli_briefing_preview__logo {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .sli_briefing_preview__logo::before {
@@ -15986,7 +15986,7 @@ ts-message .sli_briefing__feedback_controls .sli_briefing__feedback_negative:hov
 }
 
 .c-unified_member .external_team_badge::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .c-team__name--small, .c-unified_member__name--small, .c-usergroup__name--small {
@@ -16048,7 +16048,7 @@ ts-message .sli_briefing__feedback_controls .sli_briefing__feedback_negative:hov
 }
 
 .c-usergroup--medium .c-usergroup__icon {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
 }
 
@@ -16084,11 +16084,11 @@ ts-message .sli_briefing__feedback_controls .sli_briefing__feedback_negative:hov
 
 .p-modal_gallery__nav ts-icon {
     background-color: #484C52;
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 1px 1px 0px;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 1px 1px 0px;
 }
 
 .c-org_icon::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .p-channel_insights__title {
@@ -16180,7 +16180,7 @@ ts-message .sli_briefing__feedback_controls .sli_briefing__feedback_negative:hov
 }
 
 .p-channel_insights__date_heading::before {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-channel_insights .c-unified_member--linked:focus {
@@ -16706,7 +16706,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -16718,7 +16718,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-app_badge, .c-app_label {
     color: #bdb9b2;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-app_badge--inverse {
@@ -16790,7 +16790,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .p-app_space_profile__screenshot, .p-app_space_profile__youtube_thumbnail {
-    box-shadow: #1d1f24 0px 0px 0px 1px;
+    box-shadow: #484C52 0px 0px 0px 1px;
 }
 
 .p-app_space_profile__screenshot:hover, .p-app_space_profile__youtube_thumbnail:hover {
@@ -16841,12 +16841,12 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .texty_legacy .ql-editor::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .texty_legacy .ql-editor::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 .texty_legacy .ql-placeholder {
@@ -16860,7 +16860,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .texty_legacy.ql-disabled {
     background-image: initial !important;
-    background-color: #1d1f24 !important;
+    background-color: #484C52 !important;
 }
 
 .texty_legacy.ql-disabled.focus, .texty_legacy.ql-disabled:hover {
@@ -16959,12 +16959,12 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .reply_input_container .ql-editor::-webkit-scrollbar-thumb {
-    background-color: rgba(39, 44, 53, 0.5);
+    background-color: rgba(72, 76, 82, 0.5);
     color: rgba(214, 212, 207, 0.52);
 }
 
 .reply_input_container .ql-editor::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
 }
 
 #file_comment_textarea.texty_comment_input, .comment_form .texty_comment_input, .edit_comment_form .texty_comment_input {
@@ -17012,7 +17012,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -18076,7 +18076,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
     color: #ffffff;
     outline-color: initial;
     text-decoration-color: initial;
-    text-shadow: rgba(39, 44, 53, 0.1) 0px 1px 1px;
+    text-shadow: rgba(72, 76, 82, 0.1) 0px 1px 1px;
 }
 
 .c-deprecated_rounded_button:link, .c-deprecated_rounded_button:visited {
@@ -18101,7 +18101,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-deprecated_rounded_button--outline, .c-deprecated_rounded_button--transparent {
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px 1px inset;
     color: #bdb9b2;
     text-shadow: none;
 }
@@ -18195,7 +18195,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-button--primary:hover {
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 1px 4px;
     color: #ffffff;
 }
 
@@ -18217,7 +18217,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-button--danger:hover {
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 1px 4px;
     color: #ffffff;
 }
 
@@ -18230,7 +18230,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 .c-button--outline {
     background-image: initial;
     background-color: #484C52;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px 1px inset;
     color: #d6d4cf;
 }
 
@@ -18239,13 +18239,13 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-button--outline:hover {
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px 1px inset, rgba(39, 44, 53, 0.2) 0px 1px 4px;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px 1px inset, rgba(72, 76, 82, 0.2) 0px 1px 4px;
 }
 
 .c-button--outline:active {
     background-image: initial;
     background-color: rgba(24, 25, 29, 0.82);
-    box-shadow: rgba(39, 44, 53, 0.5) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.5) 0px 0px 0px 1px inset;
 }
 
 .c-button--outline.c-button--disabled, .c-button--outline.c-button--disabled:active, .c-button--outline.c-button--disabled:hover {
@@ -18269,7 +18269,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-button--outline-primary:hover {
-    box-shadow: rgba(0, 137, 82, 0.3) 0px 0px 0px 1px inset, rgba(39, 44, 53, 0.2) 0px 1px 4px;
+    box-shadow: rgba(0, 137, 82, 0.3) 0px 0px 0px 1px inset, rgba(72, 76, 82, 0.2) 0px 1px 4px;
 }
 
 .c-button--outline-primary:active {
@@ -18294,7 +18294,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-button--outline-danger:hover {
-    box-shadow: rgba(150, 28, 42, 0.3) 0px 0px 0px 1px inset, rgba(39, 44, 53, 0.2) 0px 1px 4px;
+    box-shadow: rgba(150, 28, 42, 0.3) 0px 0px 0px 1px inset, rgba(72, 76, 82, 0.2) 0px 1px 4px;
 }
 
 .c-button--outline-danger:active {
@@ -18309,7 +18309,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-button--disabled {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: rgba(214, 212, 207, 0.75);
     text-shadow: none;
 }
@@ -18567,7 +18567,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-team_icon::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .c-team_icon--default {
@@ -18677,7 +18677,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-dialog__body--slack_scrollbar::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -18702,7 +18702,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-dialog__body--slack_scrollbar_with_padding::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -19061,7 +19061,7 @@ a.c-dialog__footer_link:hover {
 }
 
 .c-date_range_picker_calendar {
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(39, 44, 53, 0.12) 0px 5px 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(72, 76, 82, 0.12) 0px 5px 10px;
 }
 
 .c-date_range_picker_calendar__date {
@@ -19141,7 +19141,7 @@ a.c-dialog__footer_link:hover {
 }
 
 .c-member_profile_card__restriction {
-    background-color: rgba(39, 44, 53, 0.8);
+    background-color: rgba(72, 76, 82, 0.8);
     color: #ffffff;
 }
 
@@ -19169,7 +19169,7 @@ a.c-dialog__footer_link:hover {
 }
 
 .c-app_badge, .c-app_label {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -19180,7 +19180,7 @@ a.c-dialog__footer_link:hover {
 
 .c-fullscreen_modal__breadcrumb_line {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-fullscreen_modal__breadcrumb_circle_icon {
@@ -19213,7 +19213,7 @@ a.c-dialog__footer_link:hover {
 }
 
 .c-fullscreen_modal__back:hover, .c-fullscreen_modal__close:hover {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
 }
 
@@ -19261,7 +19261,7 @@ a.c-dialog__footer_link:hover {
 
 .c-fullscreen_modal__body::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -19454,7 +19454,7 @@ a.c-sidebar_menu__list_item {
 
 .c-scrollbar__bar {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     outline-color: initial;
 }
 
@@ -19465,7 +19465,7 @@ a.c-sidebar_menu__list_item {
 
 .c-scrollbar--monkey .c-scrollbar__bar {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: #484C52 0px 3px 0px, #484C52 0px -3px 0px;
 }
 
@@ -19485,7 +19485,7 @@ a.c-sidebar_menu__list_item {
 
 .c-virtual_list--slack_scrollbar::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -19495,7 +19495,7 @@ a.c-sidebar_menu__list_item {
 }
 
 .c-avatar--no_image {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-avatar__additional_overlay {
@@ -19541,7 +19541,7 @@ a.c-sidebar_menu__list_item {
 
 .c-missing_text--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-missing_text--non_existent {
@@ -19569,7 +19569,7 @@ a.c-sidebar_menu__list_item {
 }
 
 .p-alert_banner--neutral {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
 }
 
@@ -19608,7 +19608,7 @@ a.c-sidebar_menu__list_item {
 
 .p-app_permission_dialog__app_icon--placeholder {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .ql-slack .ql-toolbar {
@@ -19702,7 +19702,7 @@ a.c-sidebar_menu__list_item {
 }
 
 .c-unified_member .external_team_badge::after {
-    box-shadow: rgba(39, 44, 53, 0.08) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.08) 0px 0px 0px 1px inset;
 }
 
 .c-team__name--small, .c-unified_member__name--small, .c-usergroup__name--small {
@@ -19764,7 +19764,7 @@ a.c-sidebar_menu__list_item {
 }
 
 .c-usergroup--medium .c-usergroup__icon {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
 }
 
@@ -19896,7 +19896,7 @@ a.c-sidebar_menu__list_item {
 }
 
 .p-app_profile_card__container {
-    box-shadow: rgba(39, 44, 53, 0.12) 0px 5px 10px;
+    box-shadow: rgba(72, 76, 82, 0.12) 0px 5px 10px;
 }
 
 .p-app_profile_card__header, .p-app_profile_card__header--external {
@@ -19958,7 +19958,7 @@ a.c-sidebar_menu__list_item {
 
 .c-missing_channel--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-missing_channel--nonexistent {
@@ -19970,7 +19970,7 @@ a.c-sidebar_menu__list_item {
 
 .c-missing_user_group--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-missing_user_group--nonexistent {
@@ -19982,7 +19982,7 @@ a.c-sidebar_menu__list_item {
 
 .c-missing_team--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-missing_team--nonexistent {
@@ -20646,7 +20646,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .c-tabs__tab_menu {
-    box-shadow: #1d1f24 0px -1px 0px 0px inset;
+    box-shadow: #484C52 0px -1px 0px 0px inset;
 }
 
 .c-tabs__tab {
@@ -20728,7 +20728,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 }
 
 .p-ent_entity_icon::after {
-    box-shadow: rgba(39, 44, 53, 0.11) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.11) 0px 0px 0px 1px inset;
 }
 
 .p-navigation_bar {
@@ -20756,7 +20756,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .c-basic_unified_entity__avatar--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-basic_unified_entity__description {
@@ -20774,7 +20774,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 .c-menu.p-emoji_picker {
     background-image: initial;
     background-color: #191a1e;
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(39, 44, 53, 0.12) 0px 5px 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(72, 76, 82, 0.12) 0px 5px 10px;
     color: #d6d4cf;
     outline-color: initial;
 }
@@ -20805,7 +20805,7 @@ textarea.c-input_textarea--with_error:focus, textarea.c-input_textarea--with_err
 
 .supports_custom_scrollbar .p-emoji_picker__list_scroller::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -20900,7 +20900,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
     border-right-color: #3f3f3f;
     border-bottom-color: #3f3f3f;
     border-left-color: #3f3f3f;
-    box-shadow: rgba(39, 44, 53, 0.3) 0px 0px 0px inset;
+    box-shadow: rgba(72, 76, 82, 0.3) 0px 0px 0px inset;
 }
 
 .p-emoji_picker__input_container {
@@ -21115,7 +21115,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 
 .c-texty_autocomplete--commands .c-texty_autocomplete__result_icon {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .c-texty_autocomplete--commands .c-texty_autocomplete__result--selected .c-texty_autocomplete__result_icon {
@@ -21144,7 +21144,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 }
 
 .p-file_image_thumbnail__wrapper {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-file_image_thumbnail__wrapper::after {
@@ -21169,7 +21169,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 }
 
 .c-message_attachment__border {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-message_attachment__delete {
@@ -21324,7 +21324,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 
 .c-message_attachment__file--image {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-block_kit_date_picker_calendar_wrapper {
@@ -21540,7 +21540,7 @@ a.c-message__label_link:hover {
 
 .c-message__body--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-message__body--automated {
@@ -21573,7 +21573,7 @@ a.c-message__label_link:hover {
 }
 
 .c-message__resend_column {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-message__cancel, .c-message__resend {
@@ -21590,7 +21590,7 @@ a.c-message__label_link:hover {
 
 .c-message__tombstone_icon {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #b8b3ac;
 }
 
@@ -21735,7 +21735,7 @@ a.c-message__broadcast_repliers_link {
 
 .c-message__image_container {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-message--deleting {
@@ -21880,7 +21880,7 @@ a.c-message__call_name--linked {
 
 .c-message_kit__tombstone__icon {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
     color: rgba(214, 212, 207, 0.52);
 }
 
@@ -21900,7 +21900,7 @@ a.c-message__call_name--linked {
 
 .c-message_kit__background--labels--ephemeral {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.03);
+    background-color: rgba(72, 76, 82, 0.03);
 }
 
 .c-message_kit__background--labels--sli_highlight {
@@ -21937,7 +21937,7 @@ a.c-message__call_name--linked {
     border-right-color: rgba(90, 92, 98, 0.15);
     border-bottom-color: rgba(90, 92, 98, 0.15);
     border-left-color: rgba(90, 92, 98, 0.15);
-    box-shadow: rgba(39, 44, 53, 0.06) 0px 1px 1px;
+    box-shadow: rgba(72, 76, 82, 0.06) 0px 1px 1px;
 }
 
 .p-event_block__details_title {
@@ -22208,7 +22208,7 @@ a.c-message__call_name--linked {
     border-right-color: rgba(90, 92, 98, 0.15);
     border-bottom-color: rgba(90, 92, 98, 0.15);
     border-left-color: rgba(90, 92, 98, 0.15);
-    box-shadow: rgba(39, 44, 53, 0.06) 0px 1px 1px;
+    box-shadow: rgba(72, 76, 82, 0.06) 0px 1px 1px;
 }
 
 .c-pillow_file_container--full_width {
@@ -22252,11 +22252,11 @@ a.c-message__call_name--linked {
 
 .c-pillow_file__icon--tombstone {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-pillow_file__thumb_36 {
-    box-shadow: rgba(39, 44, 53, 0.1) 0px 0px 0px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.1) 0px 0px 0px 1px inset;
 }
 
 .c-pillow_file__description {
@@ -22316,7 +22316,7 @@ a.c-message__call_name--linked {
 }
 
 .c-pillow_file__post__content blockquote::before {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-pillow_file__post__content ul.checklist {
@@ -22374,7 +22374,7 @@ a.c-message__call_name--linked {
 }
 
 .c-pillow_file__snippet__content .CodeMirror-code > div::before {
-    background-color: rgba(39, 44, 53, 0.03);
+    background-color: rgba(72, 76, 82, 0.03);
     border-right-color: rgba(90, 92, 98, 0.11);
     color: rgba(214, 212, 207, 0.52);
 }
@@ -22449,7 +22449,7 @@ a.c-message__call_name--linked {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -22708,11 +22708,11 @@ a.c-message__call_name--linked {
 }
 
 .p-app_profile_empty_state_container {
-    box-shadow: #1d1f24 0px 1px 0px 0px inset;
+    box-shadow: #484C52 0px 1px 0px 0px inset;
 }
 
 .p-app_profile_permission {
-    box-shadow: #1d1f24 0px 1px 0px 0px inset;
+    box-shadow: #484C52 0px 1px 0px 0px inset;
 }
 
 .p-ent_settings_item {
@@ -23074,7 +23074,7 @@ a.c-message__call_name--linked {
 }
 
 .p-workspace_search__search_icon_wrapper {
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -23270,7 +23270,7 @@ a.c-message__call_name--linked {
 }
 
 .p-workspace_directory__page--modal_view {
-    box-shadow: rgba(39, 44, 53, 0.1) 0px 1px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.1) 0px 1px 1px inset;
 }
 
 .p-workspace_directory__wrapper .p-workspace_directory_card.focus-ring, .p-workspace_directory__wrapper a.focus-ring, .p-workspace_directory__wrapper button.focus-ring {
@@ -23280,7 +23280,7 @@ a.c-message__call_name--linked {
 
 .p-workspace_directory__spinner--fs {
     background-color: #191a1e;
-    box-shadow: rgba(39, 44, 53, 0.1) 0px 1px 1px inset;
+    box-shadow: rgba(72, 76, 82, 0.1) 0px 1px 1px inset;
 }
 
 .p-workspace_directory__title {
@@ -23446,7 +23446,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
     border-right-color: #48484a;
     border-bottom-color: #48484a;
     border-left-color: #48484a;
-    box-shadow: rgba(39, 44, 53, 0.1) 0px 3px 3px;
+    box-shadow: rgba(72, 76, 82, 0.1) 0px 3px 3px;
 }
 
 .c-lazy_filter_select__item {
@@ -23459,7 +23459,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
 }
 
 .c-lazy_filter_select__item--selected {
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #333333;
     border-right-color: #333333;
     border-bottom-color: #333333;
@@ -23489,7 +23489,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
 }
 
 .c-lazy_filter_select__item--disabled {
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #333333;
     border-right-color: #333333;
     border-bottom-color: #333333;
@@ -23559,7 +23559,7 @@ input[type="text"].c-lazy_filter_select__input.c-input_text:focus {
 
 .p-admin_member_table__row--deactivated {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.03);
+    background-color: rgba(72, 76, 82, 0.03);
 }
 
 .p-admin_member_table__row--active {
@@ -23779,7 +23779,7 @@ button.p-admin_member_table__menu_item--disabled:hover {
 
 .p-apps_browser__apps_list::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -23873,7 +23873,7 @@ button.p-admin_member_table__menu_item--disabled:hover {
 }
 
 .p-apps_browser__app_limit_meter__color_meter li {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-apps_browser__app_limit_meter__color_meter li.meter_first_green {
@@ -23937,7 +23937,7 @@ button.p-admin_member_table__menu_item--disabled:hover {
 }
 
 .p-incoming_call__external_team_banner {
-    background-color: rgba(39, 44, 53, 0.67);
+    background-color: rgba(72, 76, 82, 0.67);
 }
 
 .p-incoming_call__external_team_icon {
@@ -24055,7 +24055,7 @@ input[type="text"].c-input_text.p-channel_name_input--input_with_warning {
 }
 
 .p-channel_options--retention_duration_add_on {
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -24234,7 +24234,7 @@ a.p-channel_sidebar__channel.focus-ring, button.p-channel_sidebar__link.focus-ri
 
 .p-connected_workspaces__list::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -24529,7 +24529,7 @@ a.p-download_item__link--open, a.p-download_item__link--retry, a.p-download_item
 }
 
 .p-download_item__progress_row {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-download_item__progress {
@@ -25018,7 +25018,7 @@ a.c-search_message__replies_count {
     border-right-color: rgba(90, 92, 98, 0.15);
     border-bottom-color: rgba(90, 92, 98, 0.15);
     border-left-color: rgba(90, 92, 98, 0.15);
-    box-shadow: rgba(39, 44, 53, 0.06) 0px 1px 1px;
+    box-shadow: rgba(72, 76, 82, 0.06) 0px 1px 1px;
 }
 
 .c-message_group__header {
@@ -25143,11 +25143,11 @@ a.c-search_message__replies_count {
 }
 
 .p-search_filter__placeholder_avatar {
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .p-search_filter__placeholder_name {
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .p-message_limit_banner {
@@ -25160,7 +25160,7 @@ a.c-search_message__replies_count {
 }
 
 .p-message_limit_banner__graphic {
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .p-message_limit_banner__graphic .c-icon--eye-closed {
@@ -25265,11 +25265,11 @@ a.c-search_message__replies_count {
 }
 
 .c-search__tabs.c-search__tabs--primary_search_legacy {
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 .c-search__tabs.c-search__tabs--primary_search_sonic {
-    box-shadow: #1d1f24 1px 0px 0px 0px inset, #1d1f24 0px -1px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset, #484C52 0px -1px 0px 0px inset;
 }
 
 .c-search__tab.c-tabs__tab.c-tabs__tab--active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:focus {
@@ -25378,7 +25378,7 @@ a.c-search_message__replies_count {
 }
 
 .p-global_nav__channel {
-    box-shadow: #1d1f24 1px 0px 0px 0px inset;
+    box-shadow: #484C52 1px 0px 0px 0px inset;
 }
 
 .p-global_nav__channel--relayout {
@@ -25387,7 +25387,7 @@ a.c-search_message__replies_count {
 
 .p-global_nav__channel--relayout.p-global_nav__channel--synthetic::after {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .p-global_nav__channel_star {
@@ -25426,7 +25426,7 @@ a.c-search_message__replies_count {
 
 .p-global_nav__channel_divider {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .p-global_nav__channel_info_item {
@@ -25486,7 +25486,7 @@ a.c-search_message__replies_count {
 
 .p-global_nav__top_menu_footer {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.03);
+    background-color: rgba(72, 76, 82, 0.03);
     border-top-color: rgba(102, 102, 102, 0.15);
 }
 
@@ -25632,7 +25632,7 @@ a.p-global_nav__flex_btn--link:focus, a.p-global_nav__flex_btn--link:hover {
 
 .c-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -25676,7 +25676,7 @@ a.p-global_nav__flex_btn--link:focus, a.p-global_nav__flex_btn--link:hover {
 
 .c-missing_app--unknown {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .c-missing_app--nonexistent {
@@ -25768,7 +25768,7 @@ a.p-global_nav__flex_btn--link:focus, a.p-global_nav__flex_btn--link:hover {
 
 .p-app_actions_dialog_options_list::-webkit-scrollbar-thumb {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.52);
+    background-color: rgba(72, 76, 82, 0.52);
     box-shadow: 0px -2px inset, 0px -3px inset, 0px 2px inset, 0px 3px inset;
 }
 
@@ -25829,7 +25829,7 @@ a.p-global_nav__flex_btn--link:focus, a.p-global_nav__flex_btn--link:hover {
 
 .p-message_pane_banner__header_img_container {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.03);
+    background-color: rgba(72, 76, 82, 0.03);
 }
 
 .p-message_pane_banner__body {
@@ -25989,7 +25989,7 @@ a.p-global_nav__flex_btn--link:focus, a.p-global_nav__flex_btn--link:hover {
 
 .p-archives_banner {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #bdb9b2;
 }
 
@@ -26198,7 +26198,7 @@ a.p-oauth_flow__nav_anchor:hover {
 
 .p-oauth_flow .p-oauth_flow__page_alert--neutral {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-oauth_flow__app_not_reviewed_link {
@@ -26481,7 +26481,7 @@ a.p-oauth_flow__app_not_reviewed_link, a.p-oauth_flow__app_not_reviewed_link:lin
 
 .c-message_kit__resend__footer__border {
     background-image: initial;
-    background-color: rgba(39, 44, 53, 0.11);
+    background-color: rgba(72, 76, 82, 0.11);
 }
 
 .c-message_kit__resend__separator {
@@ -26701,7 +26701,7 @@ a.p-oauth_flow__app_not_reviewed_link, a.p-oauth_flow__app_not_reviewed_link:lin
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     border-top-color: #48484a;
     border-right-color: #48484a;
     border-bottom-color: #48484a;
@@ -26717,7 +26717,7 @@ a.p-oauth_flow__app_not_reviewed_link, a.p-oauth_flow__app_not_reviewed_link:lin
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -26841,7 +26841,7 @@ a.p-oauth_flow__app_not_reviewed_link, a.p-oauth_flow__app_not_reviewed_link:lin
 }
 
 .sk_soft_gray_bg, .sk_soft_grey_bg {
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .sk_off_white {
@@ -27099,13 +27099,13 @@ input[type="text"].p-channel_sidebar__folder_heading_label_rename:hover {
 
 .p-global_nav__top {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d9d7d2;
 }
 
 .p-global_nav__top::after {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-global_nav__sidebar {
@@ -27116,7 +27116,7 @@ input[type="text"].p-channel_sidebar__folder_heading_label_rename:hover {
 
 .p-global_nav__top_user_presence {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
 }
 
 .p-global_nav__top_user_presence.c-presence--active {
