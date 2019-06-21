@@ -255,7 +255,7 @@ blockquote.c-mrkdwn__quote::before {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #1d1f24;
+    background-color: #484C52;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -409,7 +409,7 @@ code {
 }
 
 pre {
-    background-color: #1a1b1f;
+    background-color: #484C52;
     border-top-color: rgba(102, 102, 102, 0.15);
     border-right-color: rgba(102, 102, 102, 0.15);
     border-bottom-color: rgba(102, 102, 102, 0.15);
