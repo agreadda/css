@@ -48,11 +48,11 @@
 }
 
 html {
-    background-color: #484C52 !important;
+    background-color: #17181c !important;
 }
 
 html, body, input, textarea, select, button {
-    background-color: #484C52;
+    background-color: #17181c;
 }
 
 html, body, input, textarea, select, button {
@@ -255,7 +255,7 @@ blockquote.c-mrkdwn__quote::before {
 
 .t-keyboard_key {
     background-image: initial;
-    background-color: #484C52;
+    background-color: #1d1f24;
     color: #d6d4cf;
     border-top-color: #48484a;
     border-right-color: #48484a;
@@ -409,7 +409,7 @@ code {
 }
 
 pre {
-    background-color: #484C52;
+    background-color: #1a1b1f;
     border-top-color: rgba(102, 102, 102, 0.15);
     border-right-color: rgba(102, 102, 102, 0.15);
     border-bottom-color: rgba(102, 102, 102, 0.15);
@@ -473,7 +473,7 @@ a.badge:focus, a.badge:hover, a.label:focus, a.label:hover {
 }
 
 .badge-inverse[href], .label-inverse[href] {
-    background-color: #18191c;
+    background-color: #484C52;
 }
 
 table {
@@ -14486,7 +14486,7 @@ ts-thread ts-message.new_reply .msg_inline_attachment_column.column_border {
 
 .fs_modal_file_viewer_content .aside_panel {
     box-shadow: rgba(0, 0, 0, 0.1) -1px 0px 0px;
-    background-color: #18191c;
+    background-color: #484C52;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) .fs_modal_file_viewer_content .aside_panel {
